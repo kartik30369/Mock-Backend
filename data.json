@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "height": "172",
+    "mass": "77",
+    "film_num": 5
+  },
+  {
+    "name": "C-3PO",
+    "height": "167",
+    "mass": "75",
+    "film_num": 6
+  },
+  {
+    "name": "R2-D2",
+    "height": "96",
+    "mass": "32",
+    "film_num": 7
+  },
+  {
+    "name": "Darth Vader",
+    "height": "202",
+    "mass": "136",
+    "film_num": 4
+  },
+  {
+    "name": "Leia Organa",
+    "height": "150",
+    "mass": "49",
+    "film_num": 5
+  },
+  {
+    "name": "Owen Lars",
+    "height": "178",
+    "mass": "120",
+    "film_num": 3
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "height": "165",
+    "mass": "75",
+    "film_num": 3
+  },
+  {
+    "name": "R5-D4",
+    "height": "97",
+    "mass": "32",
+    "film_num": 1
+  },
+  {
+    "name": "Biggs Darklighter",
+    "height": "183",
+    "mass": "84",
+    "film_num": 1
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "height": "182",
+    "mass": "77",
+    "film_num": 6
+  },
+  {
+    "name": "Anakin Skywalker",
+    "height": "188",
+    "mass": "84",
+    "film_num": 3
+  },
+  {
+    "name": "Wilhuff Tarkin",
+    "height": "180",
+    "mass": "unknown",
+    "film_num": 2
+  },
+  {
+    "name": "Chewbacca",
+    "height": "228",
+    "mass": "112",
+    "film_num": 5
+  },
+  {
+    "name": "Han Solo",
+    "height": "180",
+    "mass": "80",
+    "film_num": 4
+  },
+  {
+    "name": "Greedo",
+    "height": "173",
+    "mass": "74",
+    "film_num": 1
+  },
+  {
+    "name": "Jabba Desilijic Tiure",
+    "height": "175",
+    "mass": "1,358",
+    "film_num": 3
+  },
+  {
+    "name": "Wedge Antilles",
+    "height": "170",
+    "mass": "77",
+    "film_num": 3
+  },
+  {
+    "name": "Jek Tono Porkins",
+    "height": "180",
+    "mass": "110",
+    "film_num": 1
+  },
+  {
+    "name": "Yoda",
+    "height": "66",
+    "mass": "17",
+    "film_num": 5
+  },
+  {
+    "name": "Palpatine",
+    "height": "170",
+    "mass": "75",
+    "film_num": 5
+  },
+  {
+    "name": "Boba Fett",
+    "height": "183",
+    "mass": "78.2",
+    "film_num": 3
+  },
+  {
+    "name": "IG-88",
+    "height": "200",
+    "mass": "140",
+    "film_num": 1
+  },
+  {
+    "name": "Bossk",
+    "height": "190",
+    "mass": "113",
+    "film_num": 1
+  },
+  {
+    "name": "Lando Calrissian",
+    "height": "177",
+    "mass": "79",
+    "film_num": 2
+  },
+  {
+    "name": "Lobot",
+    "height": "175",
+    "mass": "79",
+    "film_num": 1
+  },
+  {
+    "name": "Ackbar",
+    "height": "180",
+    "mass": "83",
+    "film_num": 2
+  },
+  {
+    "name": "Mon Mothma",
+    "height": "150",
+    "mass": "unknown",
+    "film_num": 1
+  },
+  {
+    "name": "Arvel Crynyd",
+    "height": "unknown",
+    "mass": "unknown",
+    "film_num": 1
+  },
+  {
+    "name": "Wicket Systri Warrick",
+    "height": "88",
+    "mass": "20",
+    "film_num": 1
+  },
+  {
+    "name": "Nien Nunb",
+    "height": "160",
+    "mass": "68",
+    "film_num": 1
+  }
+]

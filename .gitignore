@@ -1,0 +1,6 @@
+node_modules
+package.json
+package-lock.json
+
+//dependencies to install are express and cors.
+// run 'npm i --save express cors' in terminal.
